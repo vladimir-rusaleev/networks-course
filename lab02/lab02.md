@@ -62,7 +62,16 @@
 запросы и ответы со стороны сервиса для **всех** его операций.
 
 #### Демонстрация работы
-todo
+
+<img src="task_2/1.png" width=500 />
+<img src="task_2/2.png" width=500 />
+<img src="task_2/3.png" width=500 />
+<img src="task_2/4.png" width=500 />
+<img src="task_2/5.png" width=500 />
+<img src="task_2/6.png" width=500 />
+<img src="task_2/7.png" width=500 />
+<img src="task_2/8.png" width=500 />
+<img src="task_2/9.png" width=500 />
 
 ### Задание В (4 балла)
 Пусть ваш продукт также имеет иконку (небольшую картинку). Формат иконки (картинки) может
@@ -84,7 +93,8 @@ todo
 ```
 
 #### Демонстрация работы
-todo
+<img src="task_3/1.png" width=500 />
+<img src="task_3/2.png" width=500 />
 
 ---
 
